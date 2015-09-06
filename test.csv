@@ -1,7 +1,6 @@
 Qty;Value;Device;Package;Parts;Description;CONRAD;REICHELT;VALUE;VOELKNER
 1;;I2C_STANDARD;1X04;I2C;SparkFun has standardized on a pinout for all I2C based sensor breakouts.;;MPE 087-1-004;;
 1;;PINHD-1X7;1X07;SOLDER_IRON;PIN HEADER;;-;;
-1;+;2,54/1,0;2,2;VCC;THROUGH-HOLE PAD;;-;;
 1;-;2,54/1,0;2,2;GND;THROUGH-HOLE PAD;;-;;
 1;100R 0.1%;R-EU_M1206;M1206;R33;RESISTOR, European symbol;;SPR-1206 100;;
 2;100k;R-EU_R1206;R1206;R1, R22;RESISTOR, European symbol;;SMD 1/4W 100K;;
